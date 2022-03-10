@@ -37,6 +37,7 @@ Continuously improving Java skills related to Spring Framework and OAuth2. Tryin
 
 As an enthusiastic Java and Spring Boot Developer I'm creating some tutorials and starters which are open to use!
 
+- [OAuth2 Exchange](https://github.com/mzlnk/oauth2-exchange)
 - [Multi Tenancy OAuth Resource Server Spring Boot Starter](https://github.com/mzlnk/multi-tenant-oauth2-resource-server-spring-boot-starter)
 - [Java From Zero To Hero](https://github.com/mzlnk/java-from-zero-to-hero)
 

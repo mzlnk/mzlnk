@@ -36,8 +36,10 @@ Continuously improving Java skills related to Spring Framework and AuthN/AuthZ. 
 
 ### Open-Source! 🥳
 
-Currently, I am mainly focusing on the project [Fluqxverse](https://github.com/mzlnk/fluqxverse) where I building consistent and reliable microservice architecture based on JVM using latest technologies and approaches (some tutorials in form of articles on Medium are on their way, too ;)).
+#### Fluqxverse
+Currently, I am mainly focusing on the project [Fluqxverse](https://github.com/mzlnk/fluqxverse) where I am building consistent and reliable microservice architecture based on JVM using the latest technologies and approaches (some tutorials in the form of articles on Medium are on their way, too 😉).
 
+#### Libraries and Spring Boot starters
 As an enthusiastic Java and Spring Boot Developer I'm creating some tutorials and starters which are open to use!
 
 - [OAuth2 Exchange](https://github.com/mzlnk/oauth2-exchange)

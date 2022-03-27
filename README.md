@@ -36,7 +36,7 @@ Continuously improving Java skills related to Spring Framework and AuthN/AuthZ. 
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mzlnk&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
-### Open-Source! 🥳
+### Open-source! 🥳
 
 #### Fluqxverse
 Currently, I am mainly focusing on the project [Fluqxverse](https://github.com/fluqxverse) where I am building consistent and reliable microservice architecture based on JVM using the latest technologies and approaches (some tutorials in the form of articles on Medium are on their way, too 😉).

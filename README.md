@@ -2,7 +2,7 @@
 
 Creative and dynamic software engineer with two years of experience in developing large-scale and highly-available JVM-based applications. Always focused on providing clean code and developing both efficient and scalable architecture. Currently refining skills in areas of AuthN/AuthZ, microservice and RESTful architecture, Domain Driven Development.
 
-Currently, I am working as a Software Engineer in Akamai Technologies. I am also a BEng graduate at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
+Currently, I am working as a Senior Software Engineer in VirtusLab. I am also a BEng graduate at Computer Science at the Faculty of Computer Science, Electronics and Telecommunications at AGH UST.
 
 Apart from work and studies, I have been also involved in [BIT Scientific Research Group](http://fb.com/knbit) where I was a President of whole organisation and former head of [BIT Java](https://github.com/BIT-Java) where I was giving lectures for students about everything connected with Java - the basics of programming, good coding practises, libraries and frameworks (especially Spring Boot).
 
